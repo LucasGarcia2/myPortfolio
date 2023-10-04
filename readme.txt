@@ -1,4 +1,4 @@
-# [Tu Nombre] - Desarrollador Full Stack y Especialista en Redes
+# Lucas García - Desarrollador Full Stack y Especialista en Redes
 
 ¡Bienvenido a mi portafolio!
 
